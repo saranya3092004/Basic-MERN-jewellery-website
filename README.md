@@ -1,11 +1,9 @@
 # Jewellery Project
 
 This is a basic MERN stack-based project focused on frontend and backend connections. The main objectives are to handle cart item management via backend and authenticate users separately. It helps to learn how to work with basic frontend and backend connections to add items to the cart through backend and display them in the UI.
-
-
-#REFER THE SCREENSHOTS FOR THE OUTCOME
-
 ---
+
+## REFER THE OUTCOME OF THE UI FROM THE SCREEN SHOTS ABOVE
 
 ## Project Overview
 
