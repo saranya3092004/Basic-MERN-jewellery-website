@@ -1,6 +1,29 @@
 # Jewellery Project
 
-This is a MERN stack-based project with a React frontend and a Node.js backend. Follow the steps below to download and run the project.
+This is a basic MERN stack-based project focused on frontend and backend connections. The main objectives are to handle cart item management via backend and authenticate users separately. It helps to learn how to work with basic frontend and backend connections to add items to the cart through backend and display them in the UI.
+
+---
+
+## Project Overview
+
+This project consists of two main parts:
+1. **Frontend**: A React application that interacts with the backend.
+2. **Backend**: A Node.js server with MongoDB to handle API requests and manage cart items.
+
+---
+
+## Features
+- Add items to the cart through the backend.
+- User authentication system (separate from cart operations).
+- Display cart items in the frontend.
+- Basic connection between frontend and backend for item management.
+
+---
+
+## Prerequisites
+- **Node.js** (v14 or above) should be installed on your system.
+- **MongoDB** running locally or configured for remote access.
+- Basic knowledge of MERN stack development.
 
 ---
 
