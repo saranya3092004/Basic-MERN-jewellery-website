@@ -50,5 +50,7 @@ NOTE:
 ====
 
 ----Make sure Node.js is installed on your system.
+
 ----Use npm version 6 or later for compatibility.
+
 ----Ensure MongoDB is running locally or update your .env configuration for remote database connections.
