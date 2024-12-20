@@ -1,0 +1,49 @@
+.slider-container {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+}
+
+.slide {
+  position: relative;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.product-details {
+  position: absolute;
+  bottom: 20%;
+  left: 10%;
+  color: white;
+  text-align: left;
+}
+
+.product-details h2 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.product-details p {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.product-details button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: #ff7f7f;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.product-details button:hover {
+  background-color: #e06b6b;
+}
